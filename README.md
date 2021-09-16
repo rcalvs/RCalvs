@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [30 Days to make a Portifolio](https://github.com/rcalvs/30daysProject)
 
-- 🌱 I’m currently learning **SQL and BackEnd**
+- 🌱 I’m currently learning **MongoDB Cloud**
 
 - 💬 Ask me about **React**
 
