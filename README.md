@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rcalvs&label=Profile%20views&color=0e75b6&style=flat" alt="rcalvs" /> </p>
 
-- 🔭 I’m currently working on [30 Days to make a Portifolio](https://github.com/rcalvs/30daysProject)
+- 🔭 I’m currently working on [Movie Template React+Tailwind](https://github.com/rcalvs/MovieReact)
 
-- 🌱 I’m currently learning **MongoDB Cloud**
+- 🌱 I’m currently learning **UI/UX**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** **Tailwind**
 
 - 📫 How to reach me **rafaelcalvette@gmail.com**
+
+-  🌱 Check my portfolio **rcalvs.github.io/portifolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
