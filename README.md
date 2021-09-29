@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rafaelcalvette@gmail.com**
 
--  🌱 Check my portfolio **rcalvs.github.io/portifolio/**
+- 🏂 Check my portfolio **https://rcalvs.github.io/portifolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
