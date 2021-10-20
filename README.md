@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Movie Template React+Tailwind](https://github.com/rcalvs/MovieReact)
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **React** **Tailwind**
 
